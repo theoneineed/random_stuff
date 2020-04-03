@@ -1,1 +1,3 @@
 # random_stuff
+
+This is a directory for carrying out random stuff. I will be using this directory in multiple of experimental processes...
