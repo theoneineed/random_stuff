@@ -1,4 +1,0 @@
-I am going through different approaches for ellipsoid fitting.
-
---> Gram Schmidt orthogonalization process is one of the process being used online, Paper is in the doc folder
---> Another approach is using concept named "Mahalanobis distance" which Josh suggested. Need to go over it,
